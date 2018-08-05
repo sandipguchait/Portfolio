@@ -1,16 +1,16 @@
 # Site settings
 title: A blog about lorem ipsum dolor sit amet
 description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# baseurl: "/portfolio" # the subpath of your site, e.g. /blog
+# url: https://sandipguchait.github.io/portfolio/"" 
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+username: Sandip Developer
+user_description:I am a Front-end web developer, Java programmer, I have experience in making chatbots using IBM Watson and Google Dialog Flow. I nearly Code every day, learn from more experienced developers and when i am not coding you will find me listening to music and playing Games.
+user_title: ReactJS Developer
+email: isandip.dev@gmail.com
+twitter_username: @android4tech
+github_username:  sandipguchait
 gplus_username:  lorem_ipsum
 
 # Google-analytics
